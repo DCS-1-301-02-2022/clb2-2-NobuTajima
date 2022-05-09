@@ -2,7 +2,7 @@
 <!-- Markdown記法を使って学科の紹介ページを作る -->
 ![logo](logo.png)
 
-[拓殖大学情報工学科]（https://feng.takushoku-u.ac.jp/course/cs/"Takushoku University")
+[拓殖大学情報工学科](https://feng.takushoku-u.ac.jp/course/cs/)
 
 *コンピュータの基礎から高度なプログラミングまで。*
 
@@ -24,7 +24,7 @@
 ## 学生
 
 | 人数 | 男子 | 女子 |
-|:---|:---:|---:|
+|:---:|:---:|:---:|
 | 356 | 327 | 29 |
 
 
